@@ -1,7 +1,7 @@
 package main
 
 import (
-	"day7/project"
+	"day7/day7"
 )
 
 func main() {
@@ -10,5 +10,6 @@ func main() {
 	// day7.Errorwrapping()
 	// day7.Customerror()
 	// day7.Customerror1()
-	project.StudentValidator()
+	// project.StudentValidator()
+	day7.Time()
 }
